@@ -1,0 +1,5 @@
+Pergunta: Análise curricular de quais disciplinas, carga horárias e como está distribuído pelas turmas.
+
+Resposta:
+Alfa e fases 1 e 2, tem uma aula por semana de matemática (1h30) , português (1h30) e psicopedagogia (1h)
+Fase 3 até fase 7, tem, por semana, matemática (1h30) , português (1h30), inglês (1h30) e psicologia (1h)

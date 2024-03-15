@@ -26,5 +26,6 @@ Outros dados foram:
 Você pode acessar a aplicação criada [aqui](link_do_streamlit). 
 
 ### Objetivo 🎯
-**Em construção...**
+Aplicar os conhecimentos obtidos ao longo da Pós Tech em Data Analytics para desenvolver um projeto que 
+consiga quantificar e ilustrar o impacto da ONG Passos Mágicos em relação a comunidade que atende. Passando por processos que analisam os dados históricos e atuais, identificam de fatores de sucesso, desenvolvem soluções sustentáveis, visualizam e contam a história do trabalho da ONG e seus impactos.
 
